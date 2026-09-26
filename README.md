@@ -39,7 +39,7 @@
 
 I'm **Dishant Jani**, a final-year **B.E. Artificial Intelligence & Data Science** student focused on **Data Engineering**.
 
-I enjoy working with data across the lifecycle — from **Python and SQL** to **ETL/ELT, data modeling, cloud platforms, analytics, automation, and machine learning**.
+I enjoy working with data across the lifecycle from **Python and SQL** to **ETL/ELT, data modeling, cloud platforms, analytics, automation, and machine learning**.
 
 My current focus is building strong engineering fundamentals and working with modern data platforms.
 
