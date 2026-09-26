@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dishant Jani</h1>
 
-<h3 align="center">
-Data Engineer | AI & Data Science Student | Building Data Systems
-</h3>
+<p align="center">
+  <strong>Data Engineer • AI & Data Science • Building with Data</strong>
+</p>
+
+<p align="center">
+  I build data pipelines, transform raw data into analytics-ready datasets,
+  and explore how data engineering connects with AI and machine learning.
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/dishantjani">
@@ -20,131 +25,136 @@ Data Engineer | AI & Data Science Student | Building Data Systems
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dishantjanii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=dishantjanii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Dishant Jani**, a final-year **B.E. Artificial Intelligence & Data Science** student focused on building a career in **Data Engineering**.
+I'm **Dishant Jani**, a final-year **B.E. Artificial Intelligence & Data Science** student from India, currently focused on building a career in **Data Engineering**.
 
-I enjoy working with data from the point where it is collected to the point where it becomes useful for analytics, machine learning, and business decisions.
+I enjoy working across the data lifecycle — from **raw data ingestion and SQL transformations to data modeling, cloud platforms, analytics, and AI**.
 
-### What I'm working on
+### 🔭 Currently focused on
 
-- 🐍 Building stronger Python skills for Data Engineering
-- 🗄️ Working with SQL, PostgreSQL, SQL Server & Snowflake
-- ❄️ Building ELT workflows with **dbt + Snowflake**
-- 🔄 Learning data pipelines, ETL/ELT and data warehousing
-- ☁️ Exploring cloud technologies and modern data platforms
-- 🤖 Exploring Machine Learning and AI alongside Data Engineering
-- 📊 Turning raw datasets into reliable analytical datasets
+- 🐍 Python for Data Engineering
+- 🗄️ Advanced SQL & Data Modeling
+- ❄️ Snowflake
+- 🔧 dbt & Analytics Engineering
+- 🔄 ETL / ELT Pipelines
+- ☁️ Cloud Data Engineering
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Machine Learning & AI
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Programming & Data
+### 💻 Languages & Data
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+<p align="left">
+
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+width="45" height="45" alt="Python"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+width="45" height="45" alt="PostgreSQL"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+width="45" height="45" alt="MySQL"/>
+</a>
+
+<a href="https://learn.microsoft.com/sql/sql-server/">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+width="45" height="45" alt="SQL Server"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+width="45" height="45" alt="Pandas"/>
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+width="45" height="45" alt="NumPy"/>
+</a>
+
+<a href="https://matplotlib.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
+width="45" height="45" alt="Matplotlib"/>
+</a>
+
 </p>
 
-### Databases & Data Warehousing
+### 🏗️ Data Engineering & Cloud
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="45" alt="PostgreSQL"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="45" alt="MySQL"/>
+<p align="left">
+
+<a href="https://www.snowflake.com/">
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8"
+width="48" height="48" alt="Snowflake"/>
+</a>
+
+<a href="https://www.getdbt.com/">
+<img src="https://cdn.simpleicons.org/dbt/FF694A"
+width="48" height="48" alt="dbt"/>
+</a>
+
+<a href="https://aws.amazon.com/">
+<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900"
+width="48" height="48" alt="AWS"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+width="48" height="48" alt="Git"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://cdn.simpleicons.org/github/ffffff"
+width="48" height="48" alt="GitHub"/>
+</a>
+
 </p>
 
-**SQL • PostgreSQL • SQL Server • MySQL • Snowflake**
+**SQL • Python • Snowflake • dbt • ETL • ELT • Data Modeling • Data Warehousing • AWS • Git**
 
-### Data Engineering
+### 🤖 Machine Learning
 
-<p>
-<img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="45" height="45" alt="dbt"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</p>
+<p align="left">
 
-**ETL / ELT • Data Warehousing • dbt • Snowflake • Data Modeling • Git**
+<a href="https://scikit-learn.org/">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E"
+width="48" height="48" alt="Scikit-learn"/>
+</a>
 
-### Machine Learning
-
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="45" alt="Scikit-learn"/>
 </p>
 
 **Scikit-learn • Feature Engineering • Data Preprocessing • Model Development**
-
-### Cloud & Automation
-
-**AWS • n8n • Automation • APIs**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 Netflix Data Engineering Project
+### ❄️ Netflix Data Engineering Project
 
-A modern analytics engineering project using **Snowflake + dbt** to transform raw datasets into structured analytical models.
+**Snowflake + dbt + SQL**
 
-**Stack:**  
-`Snowflake` `dbt` `SQL` `Python`
-
-- Raw → Staging → Fact/Dimension modeling
-- dbt transformations and dependencies
-- SQL-based data cleaning and transformation
-- Modular data models
-- Snowflake-based warehouse architecture
-
----
-
-### 📊 E-Commerce Analytics
-
-Analytics project using the **Olist Brazilian E-Commerce dataset**.
-
-**Stack:**  
-`SQL` `Python` `Pandas` `Power BI`
-
-- Data exploration and cleaning
-- Business KPI analysis
-- Customer and sales analysis
-- SQL-based analytical queries
-- Interactive dashboard development
-
----
-
-### 👥 HR Analytics
-
-Data analytics project focused on employee and workforce insights.
-
-**Stack:**  
-`Python` `Pandas` `SQL` `Power BI`
-
----
-
-## 📚 What I'm Learning
+A data engineering and analytics project built around a raw MovieLens dataset.
 
 ```text
-Python
+Raw Data
    ↓
-Advanced SQL
+Snowflake RAW Layer
    ↓
-Data Modeling
+dbt Staging Models
    ↓
-ETL / ELT
+Fact / Dimension Models
    ↓
-Snowflake + dbt
-   ↓
-Cloud Data Engineering
-   ↓
-Distributed Data Processing
-   ↓
-Machine Learning / AI
+Analytics Layer
